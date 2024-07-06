@@ -9,7 +9,7 @@ export default function AsideR() {
                         <p className="text-gray-500 text-sm">Discussion threads targeting the whole community</p>
                     </header>
                     <a href="" className="flex flex-col p-4 gap-2 hover:text-blueb text-gray-700 border-b">
-                        About the "S" in Solid
+                        About the S in Solid
                         <div className="text-sm border bg-yellow-400 w-10 grid place-items-center rounded-md">New</div>
                     </a>
                     <a href="" className="flex flex-col p-4 gap-2 hover:text-blueb text-gray-700">

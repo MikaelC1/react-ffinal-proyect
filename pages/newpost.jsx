@@ -116,7 +116,7 @@ export default function CreatePost() {
                         <ul className="pl-5 text-gray-600 flex flex-col gap-2">
                             <li className="list-disc">Use Markdown to write and format posts.</li>
                             <li className="list-disc">Embed rich content such as Tweets, YouTube videos, etc. Use the complete URL: % embed https://... %. See a list of supported embeds.</li>
-                            <li className="list-disc">In addition to images for the post's content, you can also drag and drop a cover image.</li>
+                            <li className="list-disc">In addition to images for the posts content, you can also drag and drop a cover image.</li>
                         </ul>
                     </div>
                     <div name="default" className="w-full absolute bottom-10 left-6 flex flex-col gap-2">
@@ -124,7 +124,7 @@ export default function CreatePost() {
                         <ul className="pl-5 text-gray-600 flex flex-col gap-2">
                             <li className="list-disc">Ensure your post has a cover image set to make the most of the home feed and social media platforms.</li>
                             <li className="list-disc">Share your post on social media platforms or with your co-workers or local communities.</li>
-                            <li className="list-disc">Ask people to leave questions for you in the comments. It's a great way to spark additional discussion describing personally why you wrote it or why people might find it helpful.</li>
+                            <li className="list-disc">Ask people to leave questions for you in the comments. Its a great way to spark additional discussion describing personally why you wrote it or why people might find it helpful.</li>
                         </ul>
                     </div>
                 </div>
